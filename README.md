@@ -1,1 +1,2 @@
-# Spam-SMS-Detection
+# sms_spam_checking
+SMS Checking
